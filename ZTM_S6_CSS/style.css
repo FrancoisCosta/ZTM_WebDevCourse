@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1347&q=80);
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(45, 68, 113);
+    text-align: center;
+    border: 2px solid rgb(45, 68, 113,0.5)
+}
+
+p {
+    font-size: 18px;
+}
+
+.highlight {
+    border-bottom: 1px solid rgb(45, 68, 113,0.5);
+    
+}
+
+.active {
+    color: rgb(45, 68, 113)
+}
